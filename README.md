@@ -27,4 +27,4 @@ The following tools used in this project serve specific purposes within the indu
 
 5. Splunk: Analyzes server logs to identify attack trends and improve threat detection and response
 
-6. OpenSSH: Secures remote access with custom configurations like nonstandard ports and login attempt limits to reduce vulnerabilitie
+6. OpenSSH: Secures remote access with custom configurations like nonstandard ports and login attempt limits to reduce vulnerabilities
